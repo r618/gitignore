@@ -61,3 +61,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
